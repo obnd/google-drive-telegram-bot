@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "1468328385:AAGELtGyY6iBE8viQvzaxeVxQmne9iGMJww"
     APP_ID = "2121142"
     API_HASH = "73aea46b39f24bd55f967990926c32e9"
-    DATABASE_URL = "postgres://bmzynszpeidykl:138f8b2bce96e1384cd2e3bc7c3e50c1dae067204232b017ff010deae8ca1b77@ec2-18-206-103-49.compute-1.amazonaws.com:5432/d8ejimlmcr5kbd"
+    DATABASE_URL = "postgres://rwsmdaqpisrqwk:396530f46a37493ca066de2c04f245a1bdbf42cbf1bf861ee0c554bbe0d709fb@ec2-52-201-184-16.compute-1.amazonaws.com:5432/dbca8uuo11dvqp"
     SUDO_USERS = "1019132655 1360404905" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/dongoc"
     DOWNLOAD_DIRECTORY = "./downloads/"
