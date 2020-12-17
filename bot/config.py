@@ -3,7 +3,7 @@ class config:
     APP_ID = "2121142"
     API_HASH = "73aea46b39f24bd55f967990926c32e9"
     DATABASE_URL = "postgres://rwsmdaqpisrqwk:396530f46a37493ca066de2c04f245a1bdbf42cbf1bf861ee0c554bbe0d709fb@ec2-52-201-184-16.compute-1.amazonaws.com:5432/dbca8uuo11dvqp"
-    SUDO_USERS = "1019132655 1360404905" # Sepearted by space.
+    SUDO_USERS = "1019132655 1360404905 -384516142" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/dongoc"
     DOWNLOAD_DIRECTORY = "./downloads/"
 
